@@ -17,6 +17,8 @@ Um projeto criado usando a tecnologia **Django** para gerenciar contas, pagament
 
 Este projeto foi criado com objetivo de gerenciar contas, pagamentos ou investimentos.
 
+<img align='right' width="230" height="" src="./img/tela.png" />
+
 ## - Tecnologias 🚀️
 
 Neste projeto usei **Django** para construir o aplicativo e para o banco de dados usei **sqlite**.
